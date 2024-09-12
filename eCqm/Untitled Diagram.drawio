@@ -1,49 +1,46 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1223" dy="898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Lamp doesn&#39;t work" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-10" edge="1">
-          <mxGeometry y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.88;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fyIU5EuSdSiwbdVBtmiU-0" target="fyIU5EuSdSiwbdVBtmiU-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="330" />
+              <mxPoint x="180" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-5" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" target="WIyWlLk6GJQsqaUBKTNV-7" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-0" value="&lt;b&gt;&lt;u&gt;Flat Files&lt;/u&gt;&lt;/b&gt;&lt;div&gt;&lt;div&gt;Diagnosis&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Encounters&lt;/div&gt;&lt;div&gt;Labs&lt;/div&gt;&lt;div&gt;Radiology&lt;/div&gt;&lt;div&gt;Medication&lt;/div&gt;&lt;div&gt;Procedures&lt;/div&gt;&lt;div&gt;Vitals&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="100" width="220" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-6" value="Lamp&lt;br&gt;plugged in?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="170" width="100" height="80" as="geometry" />
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="104" width="70" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" value="Plug in lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="190" width="120" height="40" as="geometry" />
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;FlatFiles&lt;/h1&gt;&lt;div&gt;One to many ff with multi record lengths.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="103" width="180" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
-          <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-3" value="Mirth&lt;div&gt;Multi Channls&amp;nbsp;&lt;/div&gt;&lt;div&gt;Receving /&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Sending&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data types&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="360" width="210" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-9" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-10" target="WIyWlLk6GJQsqaUBKTNV-12" edge="1">
-          <mxGeometry y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="340" width="70" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="Bulb&lt;br&gt;burned out?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-5" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Mirth&lt;/h1&gt;&lt;p&gt;Rec&#39;s ff, use header row to create keys, set data to key.&lt;/p&gt;&lt;p&gt;pass to data to next step as json for further processing.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="340" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Repair Lamp" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="430" width="120" height="40" as="geometry" />
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-9" value="Diag:  SvcDate|PatAcct|PatMedRec|HXDiagnosis|HXDiagnosisCode&#xa;Enc:   SvcDate|PatAcct|PatName|PatMedRec|DischDate|SvcType|Hospice|ChiefComplaint|ModeOfArrival|DischargeDiagnosis|DischargeDiagnosisCode|DischargeDisposition|ProvName&#xa;Lab:   SvcDate|PatAcct|PatMedRec|LabOrderAuthProvider|LabOrder|LabCode|LabOrderDateTime|LabResults|LabResultsDateTime&#xa;Med:  SvcDate|PatAcct|PatMedRec|MedOrder|MedOrderDateTime|MedCode|MedDosage|MedRoute|MedFrequency|MedAdminDateTime|MedAdminRoute|ProvName&#xa;Proc: SvcDate|PatAcct|PatMedRec|ProcedureDateTime|ProcedureCode|ProcCodeDescr|ProvName&#xa;Rad:  SvcDate|PatAcct|PatMedRec|RadOrder|RadCode|RadOrderDateTime|RadOrderAuthProvider|RadResultsDateTime|RadResults&#xa;Vital: SvcDate|PatAcct|PatVitalsDateTime|PatVitals_Temp|PatVitals_BP|PatVitals_HR|PatVitals_Resp&#xa;&#xa;" style="text;whiteSpace=wrap;fontStyle=0" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="80" y="560" width="1000" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="Replace Bulb" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;Flat File Headers&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="522" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Processing Method&lt;/h1&gt;&lt;p&gt;There will be 1 to many rec channels based on delimiter type&lt;/p&gt;&lt;p&gt;Each Rec channel can poll / rec flat file. build json obj against header and data. write json obj as HL7 event type.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;1). Design of channels can be as one rec channel based on delimiter type, with multi dest.. each dest is an hl7 event type.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;--OR--&lt;br&gt;&lt;/p&gt;&lt;p&gt;2). rec channel based on delimiter type, sends to event type channel... for further processing of that event.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="539" y="121" width="340" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="fyIU5EuSdSiwbdVBtmiU-12" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Mirth Channel Pros / Cons&lt;/h1&gt;&lt;p&gt;With opt 1, processing stops if rec point errors, small foot print on DB&lt;/p&gt;&lt;p&gt;With opt 2 other processing can continue, but bigger foot print on DB&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="529" y="402" width="400" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
